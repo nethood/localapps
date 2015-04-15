@@ -1,1 +1,0 @@
-[{"id":"Rpi1","ssid":"luyuan","latitude":"47.37277963653446\/","longitude":"8.579978942871094\/","description":"test","new_photo":"images\/Rpi1.gif"},{"id":"Rpi2","ssid":"Panos","latitude":"47.40834120348175\/","longitude":"8.551483154296875\/","description":"Ciao","new_photo":"images\/Rpi2.jpg"}]
